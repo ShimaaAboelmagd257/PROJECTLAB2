@@ -1,1 +1,2 @@
 Print("Hello ITI");
+view("crash")
